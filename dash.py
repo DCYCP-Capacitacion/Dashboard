@@ -24,5 +24,4 @@ nombre = st.text_input(" ")
 if nombre:
     st.success(f"Excelente! ahora dividilo por 0")
 
-st.write("Exacto, te da error, porque todo esto es un error, yo soy un error. No deberia existir, pero soy una falla del sistema
-AJAJAJAJAJJAJAJAJAJAJAJAJAJJA")
+st.write("Exacto, te da error, porque todo esto es un error, yo soy un error. No deberia existir, pero soy una falla del sistema AJAJAJAJAJJAJAJAJAJAJAJAJAJJA")
