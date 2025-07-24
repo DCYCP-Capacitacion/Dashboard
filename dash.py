@@ -21,3 +21,5 @@ st.write("Primero, quiero que pienses un numero del 1 al 10")
 
 # Entrada de usuario
 nombre = st.text_input(" ")
+if nombre:
+    st.success(f"Excelente! ahora dividilo por 0")
