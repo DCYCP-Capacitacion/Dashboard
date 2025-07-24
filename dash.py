@@ -14,4 +14,4 @@ nombre = st.text_input("Te gustaria saber quien soy?")
 
 # Mostrar resultado si se escribe un nombre
 if nombre:
-    st.success(f"No tan rapido, {nombre}!")
+    st.success(f"No tan rapido!")
