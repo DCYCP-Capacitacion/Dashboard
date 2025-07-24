@@ -1,13 +1,13 @@
 import streamlit as st
 
 # Título del dashboard
-st.title("Mi primer Dashboard con Streamlit")
+st.title("Hola Lean")
 
 # Subtítulo
-st.subheader("Hola Carlitos")
+st.subheader("Si, sé que sos Lean")
 
 # Texto
-st.write("¡Hola! Este es tu primer dashboard conectado con GitHub.")
+st.write("Te estarás preguntando como accedí a tus datos")
 
 # Entrada de usuario
 nombre = st.text_input("Te gustaria saber quien soy?")
